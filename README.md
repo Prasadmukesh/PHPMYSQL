@@ -1,2 +1,2 @@
 # PHPMYSQL
-php mysql connection witt crud operation
+php mysql connection with crud operation
